@@ -1,22 +1,22 @@
 # Portfolio
 
-Bonjour et bienvenu sur mon Portfolio. C'est ici que je vais présenter mes compétences, des passe-temps utiles ainsi que quelques projets que j'ai pu réaliser durant ces dernières années.
+Bonjour et bienvenue sur mon Portfolio. C'est ici que je vais présenter mes compétences, des passe-temps utiles ainsi que quelques projets que j'ai pu réaliser durant ces dernières années.
 
 ## Qui suis-je ?
 
 Tout d'abord, qui suis-je ? Je m'appelle Maïa LORIDAN, je suis actuellement étudiante en 3e année de BUT Informatique et j'ai pour objectif de développer un jeu vidéo de mes propres mains. Je suis également ouverte à toute sorte de projet de développement d'applications informatiques, peu importe le domaine et les technologies utilisées.
 
-J'ai aussi des compétences, des qualités et quelques passions en plus, que je vous présenterais plus tard, qui m'aident à atteindre mon objectif final.
+J'ai aussi des compétences, des qualités et quelques passions en plus, que je vous présenterai plus tard, qui m'aident à atteindre mon objectif final.
 
 ## Mes objectifs
 
-Depuis très jeune, les jeux vidéo me passionnent : pourquoi appuyer sur un bouton permet de faire bouger le personnage ? Comment surviennent les différents événements de l'histoire ? Toutes ces questions m'ont conduites dans l'informatique, et plus particulièrement le développement d'application en tout genre. J'y ai appris comment faire tourner des fonctions en appuyant sur un simple bouton ou encore permettre à l'utilisateur d'une application à entrer des données et les stocker s'il en a besoin. C'est pourquoi mon objectif principal est de travailler dans l'informatique afin d'aider et des simplifier les tâches de différentes personnes.
+Depuis très jeune, les jeux vidéo me passionnent : pourquoi appuyer sur un bouton permet de faire bouger le personnage ? Comment surviennent les différents événements de l'histoire ? Toutes ces questions m'ont conduites dans l'informatique, et plus particulièrement le développement d'applications en tout genre. J'y ai appris comment faire tourner des fonctions en appuyant sur un simple bouton ou encore permettre à l'utilisateur d'une application à entrer des données et les stocker s'il en a besoin. C'est pourquoi mon objectif principal est de travailler dans l'informatique afin d'aider et de simplifier les tâches de différentes personnes.
 
-Cependant, un objectif qui me tient très à coeur est la réalisation de mon propre jeu vidéo. En effet, ce monde me passionne par ses histoires, ses univers mais aussi ses différents style de jeux. Étant une personne très créative, j'ai le besoin de raconter les histoires que j'imagine, de mettre en scène des personnages et d'à mon tour de permettre aux différents joueurs de rêver d'histoires et d'aventures.
+Cependant, un objectif qui me tient très à cœur est la réalisation de mon propre jeu vidéo. En effet, ce monde me passionne par ses histoires, ses univers mais aussi ses différents styles de jeux. Étant une personne très créative, j'ai le besoin de raconter les histoires que j'imagine, de mettre en scène des personnages et d'à mon tour de permettre aux différents joueurs de rêver d'histoires et d'aventures.
 
 ## Mes différents compétences et qualités
 
-Ayant étudié et travailler sur des projets informatiques, je possèdes des compétences dans les langages de programmation triés et cités ci-dessous :
+Ayant étudié et travaillé sur des projets informatiques, je possèdes des compétences dans les langages de programmation triés et cités ci-dessous :
 
 - **Le développement :**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -46,7 +46,7 @@ Comme je l'ai dit, je suis une personne très créative, j'ai une imagination d�
 
 - **Dessin :**
 
-L'un de mes passe-temps préféré est le dessin. C'est une activité qui peut se transformer en compétence dans le cadre de la réalisation de jeux vidéo, ou tout simplement lorsque c'est nécessaire dans le cadre du développement d'une application.
+L'un de mes passe-temps préférés est le dessin. C'est une activité qui peut se transformer en compétence dans le cadre de la réalisation de jeux vidéo, ou tout simplement lorsque c'est nécessaire dans le cadre du développement d'une application.
   
 Voici quelques liens pour aller voir des exemples :
 
@@ -56,11 +56,11 @@ Voici quelques liens pour aller voir des exemples :
 
 ## Des Réalisations
 
-Durant ces différentes années d'informatique, j'ai pu réaliser quelques projets de différents type. 
+Durant ces différentes années d'informatique, j'ai pu réaliser quelques projets de différents types. 
 
 - **Applications :**
 
-J'ai notamment réaliser des mini-jeux en Python, comme par exemple un puissance 4, un jeu de devinette de nombre ou encore le jeu des allumettes. J'ai également réalisé avec un équipe un programme permettant de générer des images en trois dimensions à l'aide de lancer de rayon en C++.
+J'ai notamment réalisé des mini-jeux en Python, comme par exemple un puissance 4, un jeu de devinette de nombre ou encore le jeu des allumettes. J'ai également réalisé avec un équipe un programme permettant de générer des images en trois dimensions à l'aide de lancer de rayon en C++.
 
 - **Applications Mobiles :**
 
@@ -68,8 +68,10 @@ J'ai créé deux applications mobiles, l'une étant une "To Do list" développé
 
 - **Web :**
 
-Enfin, j'ai réalisé deux projets web : le premier était un site de partage de créations pour les artistes, développer à l'aide du Framework Symfony, en PHP.
+Enfin, j'ai réalisé deux projets web : le premier était un site de partage de créations pour les artistes, développé à l'aide du Framework Symfony, en PHP.
 
 Le deuxième projet était un site de création de personnages et de scénario pour des joueurs afin de faciliter la création de jeux de rôles.
 
 ## Merci d'avoir lu mon Portfolio
+
+
